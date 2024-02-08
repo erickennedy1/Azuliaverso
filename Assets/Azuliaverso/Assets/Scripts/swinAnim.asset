@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e66c6366d904e98bc83428217d4fd7, type: 3}
+  m_Name: swinAnim
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":null,"summary":null,"pan":{"x":65.19604,"y":-268.6597},"zoom":0.9,"elements":[{"defaultValues":{"sku":{"$content":"6567c17b25cd9d5ebc858a47","$type":"System.String"}},"position":{"x":-88.0,"y":-369.0},"guid":"0c23e72c-199b-475b-9768-1c5c11c3c5d7","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SetLocalAvatarNode","$id":"9"},{"defaultValues":{"gravityMultiplier":{"$content":0.1,"$type":"System.Single"}},"position":{"x":972.0,"y":13.0},"guid":"512742cd-b10a-47ab-b133-03cce27ae367","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SetLocalAvatarGravityMultiplierNode"},{"defaultValues":{"airControl":{"$content":0.0,"$type":"System.Single"}},"position":{"x":1190.0,"y":65.0},"guid":"493221d6-a75a-4cef-be4e-33da91e6e50c","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SetLocalAvatarAirControlNode","$id":"13"},{"defaultValues":{"force":{"x":0.0,"y":2.0,"z":0.0,"$type":"UnityEngine.Vector3"},"ignoreMass":{"$content":false,"$type":"System.Boolean"}},"position":{"x":1313.0,"y":-66.0},"guid":"a494d516-2244-4fa3-9e13-29cb4b17c003","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.AddForceToLocalAvatarRagdollNode"},{"defaultValues":{},"position":{"x":814.0,"y":-67.0},"guid":"8eaed570-1fb8-4c8d-ae73-085ccd56615b","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.GetLocalAvatarRagdollPhysicsActiveNode"},{"defaultValues":{"height":{"$content":5.0,"$type":"System.Single"}},"position":{"x":1437.0,"y":87.0},"guid":"f311ca05-4aa6-4f47-aa7e-6132bef7082e","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SetLocalAvatarJumpHeightNode","$id":"19"},{"defaultValues":{"gravityMultiplier":{"$content":1.0,"$type":"System.Single"}},"position":{"x":301.0,"y":-359.0},"guid":"522819c0-3ae4-46ec-9f8e-a851defe5064","$version":"A","$type":"SpatialSys.UnitySDK.VisualScripting.SetLocalAvatarGravityMultiplierNode","$id":"21"},{"coroutine":false,"defaultValues":{},"position":{"x":-324.0,"y":-381.0},"guid":"da9d14bf-e386-45aa-9372-3b06a7d7d07c","$version":"A","$type":"Unity.VisualScripting.Start","$id":"23"},{"sourceUnit":{"$ref":"13"},"sourceKey":"outputTrigger","destinationUnit":{"$ref":"19"},"destinationKey":"inputTrigger","guid":"1a71393f-e356-4b44-bbd8-9b472f4f11e0","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"9"},"sourceKey":"outputTrigger","destinationUnit":{"$ref":"21"},"destinationKey":"inputTrigger","guid":"e0235514-bffb-45b9-9743-e2a274092d73","$type":"Unity.VisualScripting.ControlConnection"},{"sourceUnit":{"$ref":"23"},"sourceKey":"trigger","destinationUnit":{"$ref":"9"},"destinationKey":"inputTrigger","guid":"4615b7cd-402d-405d-be13-de27a53df67b","$type":"Unity.VisualScripting.ControlConnection"}],"$version":"A"}}'
+    _objectReferences: []

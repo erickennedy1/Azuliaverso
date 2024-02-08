@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d36d341c4b284ca3b26c44859a9ecb1, type: 3}
+  m_Name: AvatarAnimation_1
+  m_EditorClassIdentifier: 
+  version: 0
+  sku: 655ba6a557f198e6ff2c591a
+  packageName: AvatarSwim
+  thumbnail: {fileID: 2800000, guid: ac5c61475abbb634892f1abb491af367, type: 3}
+  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
+    type: 2}
+  prefab: {fileID: 5292405284530635334, guid: a7ddac4d65c0b0a448e2616b5b718e18, type: 3}
+  type: 0

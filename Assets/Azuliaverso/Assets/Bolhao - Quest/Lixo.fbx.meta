@@ -1,0 +1,336 @@
+fileFormatVersion: 2
+guid: c6697cd5908db96459d9e9e149831b89
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Bottle_beer
+    second: {fileID: 2100000, guid: de5075aabc949614f82834eb762386e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Bottle_green_1
+    second: {fileID: 2100000, guid: 91e043ed328da3b43a4cb24cbfa34e96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Bottle_red_1
+    second: {fileID: 2100000, guid: af9fa5b51d05f98419760417d227133d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Cun_soda
+    second: {fileID: 2100000, guid: 4d96505c56ae6b34089194e92dc2aecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Fork_1
+    second: {fileID: 2100000, guid: 3b3329afd8576004cab2e01923749630, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Paper_plates_1
+    second: {fileID: 2100000, guid: 6667f9bf7e554f14cbdc40719f91a2e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Small_bottle
+    second: {fileID: 2100000, guid: 4c6dbbd2b86cd544f88761ec3c395899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Tin_can_1
+    second: {fileID: 2100000, guid: 6990620c543bb4848b4825c4269551d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Tin_can_rust
+    second: {fileID: 2100000, guid: f46c588389616a849b97c4776af5b58d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_old_n_paper_o_v1
+    second: {fileID: 2100000, guid: 7668d91f47935ef4ab83e9bd0a0ce64a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_plastic_cup_1
+    second: {fileID: 2100000, guid: 262177de24bfd444d9e9c3c391aca67b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_wrapper_1
+    second: {fileID: 2100000, guid: d023702f04112eb4ba7491b5988cf3bb, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Cun_soda_AlbedoTransparency
+    second: {fileID: 2800000, guid: 70a0e255ede32d24c8430f4295cc550f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Cun_soda_Normal
+    second: {fileID: 2800000, guid: 77cfe35713c3efb46b85ffa97bb13f38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Cup_cofe_AlbedoTransparency
+    second: {fileID: 2800000, guid: 52dc848177c84af4ca4d3ae0229f12a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Cup_cofe_Normal
+    second: {fileID: 2800000, guid: e62f80a3d265df14ab8f6c1c7e0ed36b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Cup_soda_AlbedoTransparency
+    second: {fileID: 2800000, guid: 104a152d98a417941ad35a1d5a2b34c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Cup_soda_Normal
+    second: {fileID: 2800000, guid: dfe2dd1230d8b77458e55adc42521100, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Pack_cigarettes_AlbedoTransparency
+    second: {fileID: 2800000, guid: 8a5cf889439e1314e852211999d97241, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Pack_cigarettes_Normal
+    second: {fileID: 2800000, guid: 2ef8ba0eafae3894eb867b51458a07d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_bottle_alco_3_BaseColor
+    second: {fileID: 2800000, guid: 8bc267c47adb33b448a3c2c74b714b1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_bottle_alco_3_Normal
+    second: {fileID: 2800000, guid: 2787cf4a74b102843bcdadb07d3a1765, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_bottle_beer_AlbedoTransparency
+    second: {fileID: 2800000, guid: 560439d73aed7ef4bbac0c4ad9acfaba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_bottle_beer_Normal
+    second: {fileID: 2800000, guid: 9a0ad9eaeb00e394db62b3ddfd561abb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_bottle_wine_1_BaseColor
+    second: {fileID: 2800000, guid: 52a61837431e5e74ea39b705fcd28f9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_bottle_wine_1_Normal
+    second: {fileID: 2800000, guid: c9396d3bf4f436f4c9da570013aae8b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_cigarettes_AlbedoTransparency
+    second: {fileID: 2800000, guid: 58a4ad9bd9351fc4ebb5de3c5eadca81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_cigarettes_Normal
+    second: {fileID: 2800000, guid: 2c4907d60cad2824d895237b500eae66, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fork_1_BaseColor
+    second: {fileID: 2800000, guid: f1c18de4eb6bf0f40a2db917f5d057c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_fork_1_Normal
+    second: {fileID: 2800000, guid: 1e69a7d47d606f248980e7b6e206c619, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_old_n_paper_o_v1_BaseColor
+    second: {fileID: 2800000, guid: 11ad0924ab33df44f9eeb0c3e7b23ab3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_old_n_paper_o_v1_Normal
+    second: {fileID: 2800000, guid: 4fe6129d3ea7c29489323b6f6ef74862, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_plastic_cup_1_BaseColor
+    second: {fileID: 2800000, guid: 1ed9d7a98c81a0044825bf9b0b41e333, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_plastic_cup_1_Normal
+    second: {fileID: 2800000, guid: 913ea8cb95892344785391dea1e7d334, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_plate_1_BaseColor
+    second: {fileID: 2800000, guid: eb9f29884b632b946b77978591005849, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_plate_1_Normal
+    second: {fileID: 2800000, guid: b661bbe8effcb48408c800f1f35336fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_plate_2_BaseColor
+    second: {fileID: 2800000, guid: f571d0924845bdb43afa40a1df4cc2ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_plate_2_Normal
+    second: {fileID: 2800000, guid: 4e0fd3965068e134a86c9e77f96b3ca3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_small_bottle_AlbedoTransparency
+    second: {fileID: 2800000, guid: 59dd51038d87b60489cae2373c705767, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_small_bottle_Normal
+    second: {fileID: 2800000, guid: 86afb165ba63db042a73169e7037519d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_tin_can_1_BaseColor_v1
+    second: {fileID: 2800000, guid: 93480e409526d1e4788954fb61493e79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_tin_can_1_normal_v1_v2_v3_v4
+    second: {fileID: 2800000, guid: 9d9bf7c9bbacef0498acc5df3669b75c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_tin_can_1_rust_1_BaseColor
+    second: {fileID: 2800000, guid: 64af5aea1e8231d4f874dcec63d21b03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_tin_can_1_rust_1_Normal
+    second: {fileID: 2800000, guid: ceaee5742ad2d2c4ab55c8a799581b0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_wrapper_BaseColor
+    second: {fileID: 2800000, guid: 74c5c628aa776ef4d9172c9b4d09da2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_wrapper_Normal
+    second: {fileID: 2800000, guid: cbb5c749d5de1454081f9f84de48cd8f, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

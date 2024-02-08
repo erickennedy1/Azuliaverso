@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: aefec8651a8cd0742bf271699fb9f0d5
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coral_Tussocks.001
+    second: {fileID: 2100000, guid: f8369098ab1fcde499480c06b876d1d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coral_Tussocks.002
+    second: {fileID: 2100000, guid: 9fa770e61ece9ba4eb95a42c842d5054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coral_Tussocks.003
+    second: {fileID: 2100000, guid: be15a19183fc4ec4589740fe362a40af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corals.001
+    second: {fileID: 2100000, guid: 6741d4ae257e24d449b9984a9521cab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corals.003
+    second: {fileID: 2100000, guid: 285fc14fffc0ac94589e87be50303860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corals.004
+    second: {fileID: 2100000, guid: 48a963f09145e024e8cf53b8d65d2b45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corals.005
+    second: {fileID: 2100000, guid: a7e436b75ea53e34d8bc063b342e49db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_ROCKS
+    second: {fileID: 2100000, guid: b4122a8d40ed6ac41a43e858d47045f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 49bb0c23928a837488a70def06a940de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shells.001
+    second: {fileID: 2100000, guid: 0cf9b58ad85ea064babb745da725df4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shells.002
+    second: {fileID: 2100000, guid: 66c3ede1b3d422e4fba2cd59274d5172, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shells.003
+    second: {fileID: 2100000, guid: 16721aa57c6b9c84ab991b08fd536cba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shells.004
+    second: {fileID: 2100000, guid: de39fb10e4786d648a8e694825e965cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shells.005
+    second: {fileID: 2100000, guid: 1568c9ccd8b71444eb0d6522148d20f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_material.002
+    second: {fileID: 2100000, guid: 981b7846c8ed2fb4b843c3e7e915155b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seaweed.001
+    second: {fileID: 2100000, guid: 6b145466ff63843458a0031b10a29324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seaweed.002
+    second: {fileID: 2100000, guid: bd75b4213f91382438faaee9d033196c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seaweed.003
+    second: {fileID: 2100000, guid: bdcb76e9cc9f3ee499234fb20ac271cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seaweed.004
+    second: {fileID: 2100000, guid: b45d7a980b2e3234d9ad38a7ccacee8f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Corals_diff
+    second: {fileID: 2800000, guid: e2597effb35b35a429f188b162031d92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Corals_gloss
+    second: {fileID: 2800000, guid: ffc0e465eb0881c439e28cf7e5bf44c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Corals_normal
+    second: {fileID: 2800000, guid: 87b25717101c6dc4a8172438c94b095f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Corals_tussock_diff
+    second: {fileID: 2800000, guid: 1616f8d2486d8b249a959f272aa5e45d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Corals_tussock_gloss
+    second: {fileID: 2800000, guid: 2cd5d694004ce454289389e82e38e0ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Corals_tussock_normal
+    second: {fileID: 2800000, guid: 6603025911e85b642939dfc722fbdee4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Seaweed_diff
+    second: {fileID: 2800000, guid: df47598d79c9e294d99c3ccc60a45011, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Seaweed_gloss
+    second: {fileID: 2800000, guid: d4278414cad8a3645bcb5a827cbdd98b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Seaweed_normal
+    second: {fileID: 2800000, guid: 35f669ec051dce847963d82bf59b815a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shells_diff
+    second: {fileID: 2800000, guid: 4ff7783334f876d49af10f5c6ab0c81b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shells_gloss
+    second: {fileID: 2800000, guid: f6b1ca66d3330f643bc19973b08e89b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shells_normal
+    second: {fileID: 2800000, guid: fee1dfe4a4ecf7142a35a22962f48868, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vlzmberlw_2K_Albedo
+    second: {fileID: 2800000, guid: 5939631e25710e84ea18f3e38b4900a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vlzmberlw_2K_Normal
+    second: {fileID: 2800000, guid: ccf4fd335159c56438d3a184520918fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: vlzmberlw_2K_Roughness
+    second: {fileID: 2800000, guid: a7d72cb9b8388bc4a988df4164e59418, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wgggfcb_2K_Albedo_LOD4
+    second: {fileID: 2800000, guid: 66ffa9ae210711e4fa047df744b45f04, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wgggfcb_2K_Roughness
+    second: {fileID: 2800000, guid: 7d92ca3f1e0919c4bb95816f8861ccfc, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
